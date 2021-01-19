@@ -1,4 +1,4 @@
-# Programa Média de Alunos em Geral
+# Programa Média de Alunos em Geral 👍
 
 - Programa criado em .NET(C#).
 
